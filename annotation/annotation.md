@@ -80,9 +80,9 @@ SOURCE:在源文件中有效的
 
 CLASS：在class文件中声明有效的
 
-![](./Aimages/41.png)
-
 ![](./Aimages/40.png)
+
+![](./Aimages/41.png)
 
 RUNTIME：在运行过程中声明需要保留
 
