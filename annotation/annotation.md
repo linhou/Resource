@@ -241,7 +241,9 @@ XmlRes
 
 例如：@RequiresPermission(Manifest.permission.SET_WALLPAPER)
 
-效果：在使用这个注解之后，你调用这个方法的时候第一次会警告你在Manifest文件中没有加入这个权限，以后就不会警告你了，但是你没加这个权限后，程序在运行的时候也不会崩溃
+![](./Aimages/53.png)
+
+效果：在使用这个注解之后，你调用这个方法的时候第一次会警告你在Manifest文件中没有加入这个权限，如果没有警告你了，你可以clean下就会出现，但是你没加这个权限后，程序在运行的时候也不会崩溃。
 
 ##ButterKnife之初窥
 
